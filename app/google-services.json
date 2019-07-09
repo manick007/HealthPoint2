@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788775703414",
+    "firebase_url": "https://healthpoint2-1393c.firebaseio.com",
+    "project_id": "healthpoint2-1393c",
+    "storage_bucket": "healthpoint2-1393c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788775703414:android:bc23fd73447bb988",
+        "android_client_info": {
+          "package_name": "com.example.healthpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788775703414-t66ea1e3p4rbcaqjf0uvq890do893cs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthpoint",
+            "certificate_hash": "e03b73ee96b27f818dc2381c2459d082949e09e6"
+          }
+        },
+        {
+          "client_id": "788775703414-nq2m1m018pgg62k929sna6eb03iqtcrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgW_2CbZP7GKaf_11Fta9P84gOa9u_or0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788775703414-nq2m1m018pgg62k929sna6eb03iqtcrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
